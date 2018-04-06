@@ -2,5 +2,5 @@
 *.DS_Store
 .idea/
 webapp
-res/static/uploads/
+#res/static/uploads/
 main
